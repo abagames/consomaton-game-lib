@@ -12,9 +12,9 @@ but slightly changed.
 
 See the sample source code.
 
-[FALL V](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QDECCAZdA1EAaEATgK5wDOiIAvNQAR300A6AdgG4NPP3ucefWUCARgAMAWlJDOAOjqzedViwEAHAHwcWAAXo6WYgyoA8mrjp39qzLWID29FizwgAxrealbcCi2l--AYHSjswhYaERIXw0Wk4AvkA)
+[play FALL V](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QDECCAZdA1EAaEATgK5wDOiIAvNQAR300A6AdgG4NPP3ucefWUCARgAMAWlJDOAOjqzedViwEAHAHwcWAAXo6WYgyoA8mrjp39qzLWID29FizwgAxrealbcCi2l--AYHSjswhYaERIXw0Wk4AvkA)
 
-[source code](https://github.com/abagames/consomaton-game-lib/sample/fallv.js)
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/fallv.js)
 
 Without comment
 
@@ -71,9 +71,9 @@ v         // pattern: 'v  ' -> changes into '   '
 
 Sound effects are generated with [sounds-some-sounds](https://github.com/abagames/sounds-some-sounds)
 
-[FALL V with effects](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QDECCAZdA1EAaEATgK5wDOiIAvNQDoB2AbvQAStN3WUECMADALSlu-AGbRuzegDpWUlm3qcADgD5RQ1pvoABTdvr9DSgDzqJmyXWa79HanW2ii3XAFZ+Ae0v08IAMYedKQecBTSUhGRUdH0sXRxCfFJ8hbWPvhKEAAesNAA+gCGBGB5HkqQgeQIoKR+BaEIAEz4EKQAshAEBB4EABqIYMSwAL4Z2bmFxYig2mFWWfRZC-OL6SAMc8vLzNvLvlJzOyxbPqMgpLCwACaIvPhXsBsIg0QjQA)
+[play FALL V with effects](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QDECCAZdA1EAaEATgK5wDOiIAvNQDoB2AbvQAStN3WUECMADALSlu-AGbRuzegDpWUlm3qcADgD5RQ1pvoABTdvr9DSgDzqJmyXWa79HanW2ii3XAFZ+Ae0v08IAMYedKQecBTSUhGRUdH0sXRxCfFJ8hbWPvhKEAAesNAA+gCGBGB5HkqQgeQIoKR+BaEIAEz4EKQAshAEBB4EABqIYMSwAL4Z2bmFxYig2mFWWfRZC-OL6SAMc8vLzNvLvlJzOyxbPqMgpLCwACaIvPhXsBsIg0QjQA)
 
-[source code](https://github.com/abagames/consomaton-game-lib/sample/fallvef.js)
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/fallvef.js)
 
 ```
 /// 'f'(sound effect) command's params are equal to 
@@ -139,9 +139,9 @@ dev: true,
 
 ### Other commands
 
-[REF ARROW](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QCUCiAxABAQWcg8gOogA0IATgK5wDOiIAvEwCYkB8AbgDwB6AtADMAFgEYAOgDs2AOkxdpkpg1adektpk1tFLdtx57efGoOjiJAAU2YL2iUsuDKIkgFY+Ae0mTSIAMYeEjQecPSS0hGRUdEKErLWCYmYsfFJSSlpaRmZidk51nn5yeFFBSVJVrnlpYX5tTn1mY1Z1UUpMR0RPmQADhAAHrDQAPoAhuRgwx49kIF0CKA0fqOhCABMZBA0ALIQ5OQe5AAaiGBUsJs7ewfkAJqn5wC+vQNDYxOIoKo8iADaIJJ+v1JJogd1QFtdvtDicEAIVjRYI8ALpkCxhCSYYESMESXzSDEg7EgZ4gRGwZiIADMAA4AGwiACcVMZjyAA)
+[play REF ARROW](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QCUCiAxABAQWcg8gOogA0IATgK5wDOiIAvEwCYkB8AbgDwB6AtADMAFgEYAOgDs2AOkxdpkpg1adektpk1tFLdtx57efGoOjiJAAU2YL2iUsuDKIkgFY+Ae0mTSIAMYeEjQecPSS0hGRUdEKErLWCYmYsfFJSSlpaRmZidk51nn5yeFFBSVJVrnlpYX5tTn1mY1Z1UUpMR0RPmQADhAAHrDQAPoAhuRgwx49kIF0CKA0fqOhCABMZBA0ALIQ5OQe5AAaiGBUsJs7ewfkAJqn5wC+vQNDYxOIoKo8iADaIJJ+v1JJogd1QFtdvtDicEAIVjRYI8ALpkCxhCSYYESMESXzSDEg7EgZ4gRGwZiIADMAA4AGwiACcVMZjyAA)
 
-[source code](https://github.com/abagames/consomaton-game-lib/sample/refarrow.js)
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/refarrow.js)
 
 ```
 /// 'd'(direction) command creates the rotating patterns
@@ -171,9 +171,9 @@ dev: true,
 ===n@-fu1,5-o
 ```
 
-[PROPAG](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QAUBKB5ZBBA4iANCAE4CucAzoiALy0AmAtOQwGYDGAjADoB2AAgCEABH161qjZu278ARiLH0ATPgGyGAaz5DewoUIGLqEJbwBUvfUIs9xJzaJ6GeV53aUPesy-u+36+AB8AG4APAB6DEQALAAMmgB05vpmNuJEAMzxdCpqrNAyZilutEQArPEs5DIJ+kkuKUZ0QWHhLRGaNtr6juL8rCQc+GUMAPa8vAQgbKM85KNwVLwJK6tr6-UTPFs72w1WCjxTAA4QAB6w0AD6AIZEYFejx5CzlAig5Gw3iwgqIBDkACyECIRFGRAAGogwKRYIQAcDQeCAJrQ2EAX0Ipwu1zuYEQoD4SxcZ14ZwYk0ICWJQlJR0IZmJdKE43pIDUiAA2iAfKM+az9KMrAKWcLefzeWKGkLBeK+ZSPl8fkN-kCQWDIYgWN9yHDVYiNaiENroLr0QBdTEgXWwOiILLRACcsTKAHZ0UA)
+[play PROPAG](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QAUBKB5ZBBA4iANCAE4CucAzoiALy0AmAtOQwGYDGAjADoB2AAgCEABH161qjZu278ARiLH0ATPgGyGAaz5DewoUIGLqEJbwBUvfUIs9xJzaJ6GeV53aUPesy-u+36+AB8AG4APAB6DEQALAAMmgB05vpmNuJEAMzxdCpqrNAyZilutEQArPEs5DIJ+kkuKUZ0QWHhLRGaNtr6juL8rCQc+GUMAPa8vAQgbKM85KNwVLwJK6tr6-UTPFs72w1WCjxTAA4QAB6w0AD6AIZEYFejx5CzlAig5Gw3iwgqIBDkACyECIRFGRAAGogwKRYIQAcDQeCAJrQ2EAX0Ipwu1zuYEQoD4SxcZ14ZwYk0ICWJQlJR0IZmJdKE43pIDUiAA2iAfKM+az9KMrAKWcLefzeWKGkLBeK+ZSPl8fkN-kCQWDIYgWN9yHDVYiNaiENroLr0QBdTEgXWwOiILLRACcsTKAHZ0UA)
 
-[source code](https://github.com/abagames/consomaton-game-lib/sample/propag.js)
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/propag.js)
 
 ```
 ===d-s-fc1
@@ -206,9 +206,9 @@ b
 @   @
 ===n@-fu1,5-o
 ```
-[GGLIFE](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QHFkAIAyBJAYgURABoQAnAVzgGdEQBeegE0MID4A3AHgD0BaSngGaUAjAB0AdgAE0aAHSSJ9WgGMAzIQD2EiWmlot42UbWa028XJkGjs5QCZN5-VYk2TBnRpeGjEr3MV6cQ0eEgBWAAYIngBrSUEACzELKw0DJQZQ4SjouMS7HW8lKUEyYUIwng9xIhBlDXFKDTgaVxt2jps2zva03x8emz7ZbrSNQf6Jnu6proHZyamxxYnxuYW1kfmFmZ3t2d3JKd2D-eOa4gAHCAAPWGgAfQBDEjAHjUvIBuoEUEplJ4tBAOEAQSgAWQgJBIGhIAA1EGByLBiGDIdDYQBNRHIgC+V1u92er0QoFkNFqkla4huOlpFxAGmpPB4EhZEhA+JAlFgsAYiGEYQA7AAOYTCVS4oA)
+[play GGLIFE](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QHFkAIAyBJAYgURABoQAnAVzgGdEQBeegE0MID4A3AHgD0BaSngGaUAjAB0AdgAE0aAHSSJ9WgGMAzIQD2EiWmlot42UbWa028XJkGjs5QCZN5-VYk2TBnRpeGjEr3MV6cQ0eEgBWAAYIngBrSUEACzELKw0DJQZQ4SjouMS7HW8lKUEyYUIwng9xIhBlDXFKDTgaVxt2jps2zva03x8emz7ZbrSNQf6Jnu6proHZyamxxYnxuYW1kfmFmZ3t2d3JKd2D-eOa4gAHCAAPWGgAfQBDEjAHjUvIBuoEUEplJ4tBAOEAQSgAWQgJBIGhIAA1EGByLBiGDIdDYQBNRHIgC+V1u92er0QoFkNFqkla4huOlpFxAGmpPB4EhZEhA+JAlFgsAYiGEYQA7AAOYTCVS4oA)
 
-[source code](https://github.com/abagames/consomaton-game-lib/sample/gglife.js)
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/gglife.js)
 
 ```
 ===d,,>v<^-s-fs1
@@ -239,17 +239,20 @@ o  .
 
 ### Other examples
 
-[CROSSMAN](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QGEBKB5AypgsgQQDkQAaEAJwFc4BnREAXkYB0A7MAAk7FYFo-X2AYyGtG9MgE4eAawCGrAMycATAH1VvPpJ4AzQQEZWyzvoD0pzT0mt9nBetHMWqzhpazO8lnx4AHAHq6ABaGLJzsXqxePnJ4AAK8nDwCnADErKlpjvRRnhlZ3vzueSz57OmFfgBuwaGRYSVirHGceJaseI1OAHTd7L257ABG2bBDPNS6gsop7AksqYyLOZVjrEOc3dlkCgAMutChACqcR2DclWT6AKwHM2HIQsjZ7vG6FPrEtwD2rKwkIEE3xY1G+cDof1KDXCMJ8cNmMN6AB9wkikQiYewxNjsmJ7KpsU1oZiSexnpU4Uk4UVSbTyZxsTCcSwjpZKexqUVWSxCYw+LyVqSvKTlv9SL4IAAPWDQVSyMhgVTfXyQYG0BCgaiCWTghDKUgQag4CBkMjfMgATUQYEosAAvuKpTK5QrEKBZPFdl7EABtEACSWsSWBsIh4Ni0CG42m80ADWttoNRpNZstiB0Ouo9oAuqQwBCWMH2GHJcWxYCC8Wy4XgyGAV7dvplHsGwWg7Xy0dkG2wkUAak6ADuoPSKpff6oZCAFQzqcRkBRlPmq0IDPQLN23MgUzj2Zzhr79j7-ckSPJmNp1eZnOkJG7sKHx8CE-EM-R1Mrtcbrf0Huzl8gDwPbfCBvwsCADogFmsAACaIHsAAc+gAGwACzXHaQA)
+[play CROSSMAN](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QGEBKB5AypgsgQQDkQAaEAJwFc4BnREAXkYB0A7MAAk7FYFo-X2AYyGtG9MgE4eAawCGrAMycATAH1VvPpJ4AzQQEZWyzvoD0pzT0mt9nBetHMWqzhpazO8lnx4AHAHq6ABaGLJzsXqxePnJ4AAK8nDwCnADErKlpjvRRnhlZ3vzueSz57OmFfgBuwaGRYSVirHGceJaseI1OAHTd7L257ABG2bBDPNS6gsop7AksqYyLOZVjrEOc3dlkCgAMutChACqcR2DclWT6AKwHM2HIQsjZ7vG6FPrEtwD2rKwkIEE3xY1G+cDof1KDXCMJ8cNmMN6AB9wkikQiYewxNjsmJ7KpsU1oZiSexnpU4Uk4UVSbTyZxsTCcSwjpZKexqUVWSxCYw+LyVqSvKTlv9SL4IAAPWDQVSyMhgVTfXyQYG0BCgaiCWTghDKUgQag4CBkMjfMgATUQYEosAAvuKpTK5QrEKBZPFdl7EABtEACSWsSWBsIh4Ni0CG42m80ADWttoNRpNZstiB0Ouo9oAuqQwBCWMH2GHJcWxYCC8Wy4XgyGAV7dvplHsGwWg7Xy0dkG2wkUAak6ADuoPSKpff6oZCAFQzqcRkBRlPmq0IDPQLN23MgUzj2Zzhr79j7-ckSPJmNp1eZnOkJG7sKHx8CE-EM-R1Mrtcbrf0Huzl8gDwPbfCBvwsCADogFmsAACaIHsAAc+gAGwACzXHaQA)
+(
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/crossman.js)
+)
 
-[source code](https://github.com/abagames/consomaton-game-lib/sample/crossman.js)
+[play BARR](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QCECCAldIA0IBOArnAM6IgC8lAJgEzYB6AbtgDwB8AtAGbQCMAOgDs2AAhH0hHKbVZtZ3PkPpiWk6XSbY2LBQMEsxEwVI4z2WnTz2MVQyuSpbGLeh2K8ADN1h62yEWwAGnaUANZszkZiIgAecUIigbHxgtFxMWocCWIAdHkJMSJ5OdlF+YL2VN40QjH+McEV1E4uHKEAxG5CoiLtbCEOHHgArB5jbfQRlu6lyAPCkdwEvNjDHAD2QkI4IADG64LE63BkW4JnF+ep0QHbuAAOEDGw0AD6AIZ4YK-r95AHpAQoGIu3eJwQdBAEGIAFkIHg8Os8IFEGBCLBcNC4QikQBNVHogC+DyeLw+X0QoCm9EQAG0QLUMtcUjhQFj4YjkYguGDiLBCQBdXDtU7GLJiu4oUWxRmSlFIITrTaCJWSmLS5XKnY5aUJLXEkB82BURAATgALAA2Gi8U0AZkJQA)
+(
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/barr.js)
+)
 
-[BARR](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QCECCAldIA0IBOArnAM6IgC8lAJgEzYB6AbtgDwB8AtAGbQCMAOgDs2AAhH0hHKbVZtZ3PkPpiWk6XSbY2LBQMEsxEwVI4z2WnTz2MVQyuSpbGLeh2K8ADN1h62yEWwAGnaUANZszkZiIgAecUIigbHxgtFxMWocCWIAdHkJMSJ5OdlF+YL2VN40QjH+McEV1E4uHKEAxG5CoiLtbCEOHHgArB5jbfQRlu6lyAPCkdwEvNjDHAD2QkI4IADG64LE63BkW4JnF+ep0QHbuAAOEDGw0AD6AIZ4YK-r95AHpAQoGIu3eJwQdBAEGIAFkIHg8Os8IFEGBCLBcNC4QikQBNVHogC+DyeLw+X0QoCm9EQAG0QLUMtcUjhQFj4YjkYguGDiLBCQBdXDtU7GLJiu4oUWxRmSlFIITrTaCJWSmLS5XKnY5aUJLXEkB82BURAATgALAA2Gi8U0AZkJQA)
-
-[source code](https://github.com/abagames/consomaton-game-lib/sample/barr.js)
-
-[FALL V JUMP](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QDECCAZdACAalgUgKoCyACiADQgBOArnAM6IgC8bAOgHZYC0vXbFlywteQzoOoBOHgDMGARgFYsAegFtqAZjkMATF1UrxggA4A+HgGsAblwACKrPa483pgDzDHLiW1MAejwM1jYAdLoArMIqvr5uPA6xriqJnAlJWACGGiwWoVxZTjnp7l7cRSWCtoXJ6amuboUx2blcdvX8pWkdTh2SWgAMctBKnGEqYS39bJz2WXK0ChSRPAD2XFyUIADGa5wMa3DMXGFn5xeXm5zXtzf3dy11CS+vCeJbVKYQAB6w0AB9LLUMAAtamSD7JgIUAMHZZY4IPRUCAMYgQajUNbUAAaiDAdFgAF8vr9-kCQYhQIN7IM6fSsiduD8uD8WczWZ8QDwmXc1htONsWKo6bz7lh2WyuTYmZLhOyJVywkzFRzOOyQCSQAxYLAACaIAAckUNAHYpFoFESgA)
-
-[source code](https://github.com/abagames/consomaton-game-lib/sample/fallvjump.js)
+[play FALL V JUMP](http://abagames.sakura.ne.jp/16/cgl/index.html?v=1&d=N4IgLglmA2CmIC4QDECCAZdACAalgUgKoCyACiADQgBOArnAM6IgC8bAOgHZYC0vXbFlywteQzoOoBOHgDMGARgFYsAegFtqAZjkMATF1UrxggA4A+HgGsAblwACKrPa483pgDzDHLiW1MAejwM1jYAdLoArMIqvr5uPA6xriqJnAlJWACGGiwWoVxZTjnp7l7cRSWCtoXJ6amuboUx2blcdvX8pWkdTh2SWgAMctBKnGEqYS39bJz2WXK0ChSRPAD2XFyUIADGa5wMa3DMXGFn5xeXm5zXtzf3dy11CS+vCeJbVKYQAB6w0AB9LLUMAAtamSD7JgIUAMHZZY4IPRUCAMYgQajUNbUAAaiDAdFgAF8vr9-kCQYhQIN7IM6fSsiduD8uD8WczWZ8QDwmXc1htONsWKo6bz7lh2WyuTYmZLhOyJVywkzFRzOOyQCSQAxYLAACaIAAckUNAHYpFoFESgA)
+(
+[source code](https://github.com/abagames/consomaton-game-lib/blob/master/samples/fallvjump.js)
+)
 
 License
 ----------
