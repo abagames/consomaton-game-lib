@@ -1,0 +1,20 @@
+body {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: #222;
+  -moz-user-select: none;
+  -ms-user-select: none;    
+  background: #222;
+  text-align: center;
+  color: #eee;
+  text-align: center;
+}
+
+canvas#mainCanvas {
+  width: 80vmin;
+  height: 85vmin;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: -o-crisp-edges;
+  image-rendering: pixelated;
+}
