@@ -1,7 +1,7 @@
 {
   "name": "consomaton-game-lib",
   "version": "1.0.0",
-  "description": "cellular automaton based game developing library",
+  "description": "cellular automaton based game development library",
   "author": "ABA",
   "license": "MIT",
   "devDependencies": {
