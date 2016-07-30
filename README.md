@@ -8,6 +8,14 @@ but slightly changed.
 
 ![screenshot](http://abagames.sakura.ne.jp/16/cgl/screenshot.gif)
 
+### Write your own game
+
+1. Open [this jsbin](https://jsbin.com/haqudi/edit?js,output).
+
+2. Write rules in the JavaScript window.
+
+3. If you want to publish the game, clone your own copy (ctrl+shift+S) and share.
+
 ### How to write rules
 
 See the sample source code.
