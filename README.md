@@ -14,7 +14,7 @@ but slightly changed.
 
 2. Write rules in the JavaScript window.
 
-3. If you want to publish the game, clone your own copy (ctrl+shift+S) and share.
+3. If you want to publish the game, clone your own copy (File -> Clone) and Share.
 
 ### How to write rules
 
